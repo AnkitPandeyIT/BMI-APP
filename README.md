@@ -2,13 +2,9 @@
 
 An application to calculate body mass index.
 
-## Learnings
+## Screenshots
 
-In this application ui design and object oriented programming is used.
+![Screenshot_2023-02-06-15-39-30-01](https://user-images.githubusercontent.com/88496284/216954311-17793dbd-cbb3-403f-8aba-b791e69f08a2.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-02-06-15-39-39-48](https://user-images.githubusercontent.com/88496284/216954343-ca743d9d-b688-4596-b99f-32fbaf588cfb.jpg)
